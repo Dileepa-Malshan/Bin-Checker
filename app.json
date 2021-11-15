@@ -7,7 +7,7 @@
         "Telegra."
     ],
     "website": "#TODO",
-    "repository": "https://github.com/Benchamxd/Bin-Checker",
+    "repository": "https://github.com/Dileepa-Malshan/Bin-Checker",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
